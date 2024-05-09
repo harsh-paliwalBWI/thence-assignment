@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Vercel Deployed Link
 
-https://thence-task-ashy.vercel.app/
+[https://thence-task-ashy.vercel.app/](https://harsh-paliwal-thence-assignment.vercel.app/)
 
 ## Available Scripts
 
